@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @GuoJingtao-1997
-- 👀 I’m interested in indoor positioning and tracking
+- 👋 Hi, I’m Guo Jingtao
+- 👀 I’m interested in wireless sensing
 - 🌱 I’m currently learning machine learning methodology
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
